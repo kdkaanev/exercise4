@@ -1,4 +1,4 @@
-resource_group_name         = "taskboard"
+resource_group_name           = "taskboard"
 resource_group_location       = "North Europe"
 app_service_plan_name         = "task_board_plan"
 web_app_name                  = "taskboardkaanev"
