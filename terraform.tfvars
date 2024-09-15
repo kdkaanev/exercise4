@@ -1,0 +1,11 @@
+resource_group_name         = "taskboard"
+resource_group_location       = "North Europe"
+app_service_plan_name         = "task_board_plan"
+web_app_name                  = "taskboardkaanev"
+resource_mysql_server         = "mysqlserver"
+resource_group_mysql_database = "TaskBoard"
+sql_admin_login               = "user1"
+sql_admin_pass                = "1234Quer!"
+resource_firewall_rule        = "Firewallname"
+git_hub_url                   = "https://github.com/kdkaanev/taskboard"
+
